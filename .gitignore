@@ -12,6 +12,7 @@ node_modules/
 
 # Build outputs (React/Vite/Express static)
 /build
+/frontend/build
 /dist
 /out
 
